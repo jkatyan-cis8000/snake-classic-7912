@@ -1,4 +1,4 @@
-from types import Difficulty
+from ..types import Difficulty
 
 BOARD_SIZE = 20
 

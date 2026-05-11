@@ -1,7 +1,7 @@
 from random import randint
 
-from src.config import BOARD_SIZE, DIFFICULTIES
-from src.types import Direction, Food, GameState, Position, Snake
+from ..config import BOARD_SIZE, DIFFICULTIES
+from ..types import Direction, Difficulty, Food, GameState, Position, Snake
 
 
 class GameService:
